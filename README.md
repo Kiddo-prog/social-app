@@ -1,10 +1,10 @@
-# Social Chat App
+# Talkline Social Chat App
 
 Social chat app is a Django powered app which enables users to create tweet, follow/unfollow other users and check their tweets
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to clone Social Chat App.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to clone Talkline.
 
 ```bash
 pip freeze > requirements.txt
